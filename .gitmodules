@@ -1,0 +1,3 @@
+[submodule "mtg_decklist_visualizer"]
+	path = mtg_decklist_visualizer
+	url = https://github.com/jnadro/mtg_decklist_visualizer.git
